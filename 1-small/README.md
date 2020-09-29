@@ -23,4 +23,4 @@ Create a new folder called `cowsay-practice` and initialize `npm`
 
 ## 6 - Cowsay
 
-Install the [cowsay package](https://www.npmjs.com/package/cowsay) and call `cowsay.say()`.
+Install the [cowsay package](https://www.npmjs.com/package/cowsay) and call `cowsay.say()`. 

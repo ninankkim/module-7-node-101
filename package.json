@@ -1,0 +1,23 @@
+{
+  "name": "module-7-node-101",
+  "version": "1.0.0",
+  "description": "This repo contains the starter files for the exercises listed in on learn.digitalcrafts.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninankkim/module-7-node-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninankkim/module-7-node-101/issues"
+  },
+  "homepage": "https://github.com/ninankkim/module-7-node-101#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
